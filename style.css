@@ -262,6 +262,7 @@ p:hover{
 }
 #soc-icons:hover{    
     color: blue;
+    opacity: 20%;   
 }
 .text4, .text3{
     height: max-content;
