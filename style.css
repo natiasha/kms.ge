@@ -254,7 +254,8 @@ p:hover{
      display: flex;
     justify-content: space-between;
 }
-.social-icons{    
+.social-icons{ 
+    margin-top:25px;
     display: flex;
     width: 120px;
     justify-content: space-between;   
