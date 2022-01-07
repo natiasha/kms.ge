@@ -203,15 +203,14 @@ p:hover{
 .load-more{
     width: max-content;
     margin: auto;
-    margin-top: 70px;     
-    box-shadow: 1px 1px 10px;
-    background-color: rgb(241, 242, 243);
+    margin-top: 50px;     
+    box-shadow: 0px 2px 0px  grey;   
 }
 .load-more:hover{
     background-color: rgb(192, 147, 171);
 }
 #load-more {
-    font-size: 30px;
+    font-size: 20px;
     font-family: 'archivo';
     text-shadow: 1px 1px grey;
 }
