@@ -3,6 +3,7 @@
     max-width: 1920px;
     margin:auto;
     box-sizing: border-box;
+    background-color:red;
 }
 .container{
   max-width:1400px;   
